@@ -1,0 +1,15 @@
+C:\Users\Sartaj khan\source\repos\MoodAnalyzerPrograms\MoodAnalyzerPrograms\bin\Debug\net6.0\MoodAnalyzerPrograms.exe
+C:\Users\Sartaj khan\source\repos\MoodAnalyzerPrograms\MoodAnalyzerPrograms\bin\Debug\net6.0\MoodAnalyzerPrograms.deps.json
+C:\Users\Sartaj khan\source\repos\MoodAnalyzerPrograms\MoodAnalyzerPrograms\bin\Debug\net6.0\MoodAnalyzerPrograms.runtimeconfig.json
+C:\Users\Sartaj khan\source\repos\MoodAnalyzerPrograms\MoodAnalyzerPrograms\bin\Debug\net6.0\MoodAnalyzerPrograms.dll
+C:\Users\Sartaj khan\source\repos\MoodAnalyzerPrograms\MoodAnalyzerPrograms\bin\Debug\net6.0\MoodAnalyzerPrograms.pdb
+C:\Users\Sartaj khan\source\repos\MoodAnalyzerPrograms\MoodAnalyzerPrograms\obj\Debug\net6.0\MoodAnalyzerPrograms.csproj.AssemblyReference.cache
+C:\Users\Sartaj khan\source\repos\MoodAnalyzerPrograms\MoodAnalyzerPrograms\obj\Debug\net6.0\MoodAnalyzerPrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sartaj khan\source\repos\MoodAnalyzerPrograms\MoodAnalyzerPrograms\obj\Debug\net6.0\MoodAnalyzerPrograms.AssemblyInfoInputs.cache
+C:\Users\Sartaj khan\source\repos\MoodAnalyzerPrograms\MoodAnalyzerPrograms\obj\Debug\net6.0\MoodAnalyzerPrograms.AssemblyInfo.cs
+C:\Users\Sartaj khan\source\repos\MoodAnalyzerPrograms\MoodAnalyzerPrograms\obj\Debug\net6.0\MoodAnalyzerPrograms.csproj.CoreCompileInputs.cache
+C:\Users\Sartaj khan\source\repos\MoodAnalyzerPrograms\MoodAnalyzerPrograms\obj\Debug\net6.0\MoodAnalyzerPrograms.dll
+C:\Users\Sartaj khan\source\repos\MoodAnalyzerPrograms\MoodAnalyzerPrograms\obj\Debug\net6.0\refint\MoodAnalyzerPrograms.dll
+C:\Users\Sartaj khan\source\repos\MoodAnalyzerPrograms\MoodAnalyzerPrograms\obj\Debug\net6.0\MoodAnalyzerPrograms.pdb
+C:\Users\Sartaj khan\source\repos\MoodAnalyzerPrograms\MoodAnalyzerPrograms\obj\Debug\net6.0\MoodAnalyzerPrograms.genruntimeconfig.cache
+C:\Users\Sartaj khan\source\repos\MoodAnalyzerPrograms\MoodAnalyzerPrograms\obj\Debug\net6.0\ref\MoodAnalyzerPrograms.dll
