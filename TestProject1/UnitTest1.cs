@@ -1,5 +1,6 @@
 using MoodAnalyzerPrograms;
 using NUnit.Framework;
+using Assert = NUnit.Framework.Assert;
 
 namespace TestProject1
 {
@@ -26,7 +27,7 @@ namespace TestProject1
             //Act
             string message = moodanalyzer.AnalyzeMoodWithoutConstructor(msg);
             //Assert
-            Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreEqual("SAD", message);
+            Assert.AreEqual("SAD", message);
         }
         /// <summary>
         /// TC1.1.2 : Given : "I am in any mood" should return HAPPY
@@ -72,38 +73,5 @@ namespace TestProject1
             string msg = moodanalyzer.AnalyzeMood();
             Assert.AreEqual("HAPPY", msg);
         }
-        /// <summary>
-        /// TC3.1 : Given : NULL Mood Should Throw MoodAnalysisException
-        /// </summary>
-        [Test]
-        public void GivenMessage_WhenNull_Should_ShouldReturnNullMood_WithCustomException()
-        {
-            moodanalyzer = new MoodAnalyzer();
-            try
-            {
-                string msg = moodanalyzer.AnalyzeMood();
-            }
-            catch (CustomExceptionForMoodAnalyzer exception)
-            {
-                Assert.AreEqual(CustomExceptionForMoodAnalyzer.ExceptionType.NULL_MOOD, exception.exceptiontype);
-            }
-        }
-        /// <summary>
-        /// TC3.2 : Given : Empty Mood Should Throw MoodAnalysisException
-        /// </summary>
-        [Test]
-        public void GivenMessage_WhenEmpty_Should_ShouldReturnNullMood_WithCustomException()
-        {
-            moodanalyzer = new MoodAnalyzer();
-            try
-            {
-                string msg = moodanalyzer.AnalyzeMood();
-            }
-            catch (CustomExceptionForMoodAnalyzer exception)
-            {
-                Assert.AreEqual(CustomExceptionForMoodAnalyzer.ExceptionType.EMPTY_MOOD, exception.exceptiontype);
-            }
-        }
-
     }
 }
